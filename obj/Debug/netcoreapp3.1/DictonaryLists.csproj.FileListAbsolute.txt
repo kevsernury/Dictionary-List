@@ -1,0 +1,13 @@
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.csprojAssemblyReference.cache
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.AssemblyInfoInputs.cache
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.AssemblyInfo.cs
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.csproj.CoreCompileInputs.cache
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.exe
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.deps.json
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.runtimeconfig.json
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.runtimeconfig.dev.json
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.dll
+D:\git\DictonaryList\DictonaryLists\bin\Debug\netcoreapp3.1\DictonaryLists.pdb
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.dll
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.pdb
+D:\git\DictonaryList\DictonaryLists\obj\Debug\netcoreapp3.1\DictonaryLists.genruntimeconfig.cache
